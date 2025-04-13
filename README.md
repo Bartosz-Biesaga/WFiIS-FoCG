@@ -2,7 +2,7 @@
 Project for the fourth semester Fundamentals of Computer Graphics course at AGH.
 ___
 ### Project description
-This project is a simple desktop application, that allows user to perform selective color correction of loaded image by choosing color they want to change from image and target color from RGB color cube. Strength and range of correction can be regulated with two sliders.
+This project is a simple desktop application, that allows the user to perform selective color correction of loaded image by choosing a color from the image to change and target color from RGB color cube. Strength and range of correction can be regulated with two sliders.
 
 Project was created using C++ GUI library wxWidgets.
 
